@@ -1,0 +1,3 @@
+tests:
+    type:     rest
+    resource: Acme\DemoBundle\Controller\TestController
